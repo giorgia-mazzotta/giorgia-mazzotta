@@ -1,4 +1,4 @@
-# Aerospace Engineering Portfolio
+# Space and Astronautical Engineering Portfolio
 
 Welcome to my digital portfolio.
 
